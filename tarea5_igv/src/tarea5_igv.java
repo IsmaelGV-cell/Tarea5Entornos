@@ -90,7 +90,7 @@ public class tarea5_igv {
        
         int i=1;
         while(i<=n){
-            System.out.println(i+' '); 
+            System.out.println(i+' '); //Prueba para un segundo Commit
             i++;            
         }
     } 
