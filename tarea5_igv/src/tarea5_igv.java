@@ -1,6 +1,7 @@
+
+
+
 import java.util.Scanner;
-
-
 
 class SelectionSort {
 	public void sortArray(int[] array) {
